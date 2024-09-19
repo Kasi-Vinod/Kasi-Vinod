@@ -3,13 +3,16 @@
 I am a supply chain and operations professional with expertise in data analytics, Six Sigma methodologies, and manufacturing operations. I thrive on optimizing processes through data-driven decision-making and innovative project management.
 
 ## 🔧 Skills
+- **Programming Languages**: SQL, Python (Basic)
+- **Data Visualization**: Tableau, Power BI, Looker, Matplotlib, Seaborn
+- **Statistical Analysis**: Regression Analysis, ANOVA, Hypothesis Testing, Descriptive Statistics, A/B Testing
+- **Data Management**: Data Cleaning, Data Wrangling, Data Mining, Data Modeling, Data Validation, Data Integration
+- **Reporting**: Dashboarding, Business Intelligence, KPI Tracking, Ad-hoc Reporting
 - **Supply Chain Management**
 - **Lean Six Sigma**
-- **Data Analytics**: Power BI, Tableau, Advanced SQL, Excel
 - **Project Management**
 - **Cross-Functional Collaboration**
 - **Vendor Management**
-- **Python** (Basic)
 
 ## 📈 Experience
 
